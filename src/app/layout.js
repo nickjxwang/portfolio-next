@@ -3,7 +3,7 @@ import { IoTriangleSharp } from 'react-icons/io5'
 import './globals.css'
 
 export const metadata = {
-    title: 'Portfolio',
+    title: 'Nick_Wang',
     description: 'This is the personal portfolio',
 }
 
